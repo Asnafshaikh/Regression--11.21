@@ -1,2 +1,6 @@
 "Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c"
+1bd07f1d-6299-4d8e-9f73-2d2827acd76f,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+4d7c24da-b99f-4cd8-9430-a071393747ca,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+7d170587-c7ac-4791-b4b5-052f7fa65482,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
+a3f98d09-a0a7-4b3a-a92d-3c25c427412e,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
 dcbe5bb4-5c96-4231-b852-8d51aff478e5,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
