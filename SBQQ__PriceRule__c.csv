@@ -1,4 +1,1 @@
 "Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c"
-512ef6b7-25c8-46b9-9f8e-029f82befcdc,Test2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
-56683ebd-1dc9-4bb4-b364-0ec069aff33c,Test3,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
-aa8d027e-094f-42e3-9787-44a7f3c1e68e,Test Rule,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
